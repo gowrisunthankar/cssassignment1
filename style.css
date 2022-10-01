@@ -1,0 +1,17 @@
+h1,h3{
+    color: red;
+}
+
+li,p{
+    color: brown;
+}
+
+ul{
+    color: brown;
+    letter-spacing: 7px;
+}
+
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
